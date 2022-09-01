@@ -1,0 +1,15 @@
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\bin\Debug\net6.0\habitTR.exe
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\bin\Debug\net6.0\habitTR.deps.json
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\bin\Debug\net6.0\habitTR.runtimeconfig.json
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\bin\Debug\net6.0\habitTR.dll
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\bin\Debug\net6.0\habitTR.pdb
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\obj\Debug\net6.0\habitTR.csproj.AssemblyReference.cache
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\obj\Debug\net6.0\habitTR.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\obj\Debug\net6.0\habitTR.AssemblyInfoInputs.cache
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\obj\Debug\net6.0\habitTR.AssemblyInfo.cs
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\obj\Debug\net6.0\habitTR.csproj.CoreCompileInputs.cache
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\obj\Debug\net6.0\habitTR.dll
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\obj\Debug\net6.0\refint\habitTR.dll
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\obj\Debug\net6.0\habitTR.pdb
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\obj\Debug\net6.0\habitTR.genruntimeconfig.cache
+E:\Pessoal\web\c#\AcademyCSharp\HabitTracker\habitTR\obj\Debug\net6.0\ref\habitTR.dll
