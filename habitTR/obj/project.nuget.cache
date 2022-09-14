@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "tCAUOxF2xrXXJ04/2L5dk1f6EzajdkjNIZ1KoQIwMvZ9D6wmbnNxkfHn1yv/hvsOk71p9uZsQyJQJ/A4532G2A==",
+  "dgSpecHash": "iD+W7UZJzoh458nFXLN9IrEYwZPWyklCWd3XrDzRgmJESOwaCW7frMEfkowPhJAFoU0VB/B3e0OTqKlAgKgEaA==",
   "success": true,
-  "projectFilePath": "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habitTR\\habitTR.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habittr\\habitTR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\microsoft.data.sqlite\\6.0.8\\microsoft.data.sqlite.6.0.8.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

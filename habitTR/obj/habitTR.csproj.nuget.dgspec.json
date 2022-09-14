@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habitTR\\habitTR.csproj": {}
+    "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habittr\\habitTR.csproj": {}
   },
   "projects": {
-    "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habitTR\\habitTR.csproj": {
+    "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habittr\\habitTR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habitTR\\habitTR.csproj",
+        "projectUniqueName": "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habittr\\habitTR.csproj",
         "projectName": "habitTR",
-        "projectPath": "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habitTR\\habitTR.csproj",
+        "projectPath": "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habittr\\habitTR.csproj",
         "packagesPath": "C:\\Users\\Alessandro.Oliveira\\.nuget\\packages\\",
-        "outputPath": "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habitTR\\obj\\",
+        "outputPath": "E:\\Pessoal\\web\\c#\\AcademyCSharp\\HabitTracker\\habittr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alessandro.Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
