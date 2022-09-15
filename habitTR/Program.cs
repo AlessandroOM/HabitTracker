@@ -32,7 +32,7 @@ internal class Program
                        Manager.Insert();
                        break;
 
-                case 2 :
+                case 2 : 
                        Manager.Update();
                        break; 
 
