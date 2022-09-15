@@ -1,2 +1,2 @@
 ﻿# cSharpAcademyConsoleApp
-'Simple console app using sqllite
+Simple console app using sqllite
