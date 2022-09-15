@@ -33,7 +33,7 @@ internal class Program
                        break;
 
                 case 2 : 
-                       Manager.Update();
+                       Manager.Update(); 
                        break; 
 
                 case 3 :
